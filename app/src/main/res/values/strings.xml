@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gpixel</string>
+    <string name="tv_title">GPixel</string>
+    <string name="tv_slogan">¡Buscando una nueva aventura!</string>
+    <string name="msj_no_registrado">No se ha podido registrar</string>
+    <string name="msj_registrado">Se ha registrado</string>
+</resources>
